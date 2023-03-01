@@ -16,6 +16,8 @@
     "react-dom": "^18.2.0",
     "react-native": "0.71.3",
     "react-native-web": "^0.18.12",
+    "react-router-dom": "^6.8.2",
+    "react-router-native": "^6.8.2",
     "twrnc": "^3.6.0"
   },
   "devDependencies": {
