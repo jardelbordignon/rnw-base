@@ -1,0 +1,25 @@
+export default {
+  bundle: true,
+  entryPoints: ['index.js'],
+  format: 'cjs',
+  loader: {
+    '.js': 'jsx',
+    '.png': 'dataurl',
+    '.svg': 'dataurl',
+    '.ttf': 'file',
+  },
+  outfile: 'build/web.js',
+  platform: 'browser',
+  resolveExtensions: [
+    '.web.tsx',
+    '.web.ts',
+    '.web.jsx',
+    '.web.js',
+    '.tsx',
+    '.ts',
+    '.jsx',
+    '.js',
+  ],
+  target: ['es2020', 'chrome58', 'firefox57', 'node12', 'safari11'],
+  tsconfig: 'tsconfig.web.json',
+}

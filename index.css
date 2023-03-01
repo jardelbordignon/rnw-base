@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+}
+
+#root {
+  display: flex;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.2s;
+}
+a:hover {
+  filter: brightness(0.8);
+}
+
+button,
+div[role='button'] {
+  cursor: pointer;
+  transition: all 0.2s;
+}
+button:hover,
+div[role='button']:hover {
+  filter: brightness(0.8);
+}
+
+input {
+  outline: none;
+}
+
+input[type='password']::-ms-reveal,
+input[type='password']::-ms-clear {
+  display: none;
+}
+
+/* @font-face {
+  font-family: 'MaterialCommunityIcons';
+  src: url('/public/fonts/MaterialCommunityIcons.ttf') format('truetype');
+} */
