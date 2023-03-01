@@ -12,12 +12,15 @@
     "build": "set NODE_ENV=production&& node esbuild/build.mjs"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-native": "0.71.3",
     "react-native-web": "^0.18.12",
     "react-router-dom": "^6.8.2",
     "react-router-native": "^6.8.2",
+    "recoil": "^0.7.6",
+    "recoil-persistence": "^0.3.0-beta.1",
     "twrnc": "^3.6.0"
   },
   "devDependencies": {
