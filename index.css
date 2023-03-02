@@ -39,7 +39,7 @@ input[type='password']::-ms-clear {
   display: none;
 }
 
-/* @font-face {
+@font-face {
   font-family: 'MaterialCommunityIcons';
   src: url('/public/fonts/MaterialCommunityIcons.ttf') format('truetype');
-} */
+}
