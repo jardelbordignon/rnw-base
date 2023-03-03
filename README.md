@@ -21,6 +21,8 @@
   </a>
 </p>
 
+</div>
+
 <br/>
 
 ## 💻 Sobre o projeto
@@ -67,7 +69,7 @@ $ yarn web
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Jardel Bordignon 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Jardel Bordignon 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jardelbordignon/)
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
