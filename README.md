@@ -21,6 +21,8 @@
   </a>
 </p>
 
+</div>
+
 <br/>
 
 ## 💻 Sobre o projeto
