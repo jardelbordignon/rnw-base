@@ -40,6 +40,7 @@ Possui pouquíssimos recursos, apenas o suficiente para se explorar o react-nati
 - [React Router Native][rrn]
 - [Recoil][recoil]
 - [Recoil Persistence][recoil-persistence]
+- [Tailwind React Native Classnames][twrnc]
 - [TypeScript][typescript]
 
 <br/>
@@ -78,6 +79,7 @@ Feito com ❤️ por Jardel Bordignon 👋🏽 [Entre em contato!](https://www.l
 [recoil-persistence]: https://github.com/davwheat/recoil-persistence/
 [rrd]: https://www.npmjs.com/package/react-router-dom/
 [rrn]: https://www.npmjs.com/package/react-router-native/
+[twrnc]: https://www.npmjs.com/package/twrnc
 [yarn]: https://yarnpkg.com/
 [vscode]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
